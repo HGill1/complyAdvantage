@@ -4,6 +4,7 @@ There are many errors with the test. So I try to put comments where possible. Th
 All failed tests are assertion failure.
 
 ##Run Test
+
 Tests can be executed in following ways
 
 1. By executing `RunCucumberTests.java` file
@@ -11,5 +12,6 @@ Tests can be executed in following ways
 
 
 ##Reports
+
 Pretty format report is generated at `target/site/cucumber-pretty/index.html`. 
 Default format of cucumber report has been used this can be enhanced when test suit deployed on CI server
